@@ -10,6 +10,12 @@ You can install Vacuum using pip:
 pip install vacuum
 ```
 
+or use curl
+```bash
+curl -sSL https://raw.githubusercontent.com/Ayash-Bera/Vacuum-cli/main/install.sh | bash
+```
+
+
 ## Usage
 
 ```bash
