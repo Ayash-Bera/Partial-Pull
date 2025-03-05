@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="vacuum",
+    name="Partial Pull",
     version="0.1.0",
     author="Ayash",
     author_email="ayashbera@gmail.com",
