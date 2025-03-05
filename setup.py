@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="Partial Pull",
-    version="0.1.0",
+    name="vaccum-git-cli",
+    version="0.1.1",
     author="Ayash",
     author_email="ayashbera@gmail.com",
     description="A tool to clone specific folders from a Git repository",

@@ -1,0 +1,8 @@
+README.md
+setup.py
+vacuum_script.py
+vaccum_git_cli.egg-info/PKG-INFO
+vaccum_git_cli.egg-info/SOURCES.txt
+vaccum_git_cli.egg-info/dependency_links.txt
+vaccum_git_cli.egg-info/entry_points.txt
+vaccum_git_cli.egg-info/top_level.txt

@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
-Name: vacuum
-Version: 0.1.0
+Name: vaccum-git-cli
+Version: 0.1.1
 Summary: A tool to clone specific folders from a Git repository
 Home-page: https://github.com/Ayash-Bera/vaccum
 Author: Ayash
