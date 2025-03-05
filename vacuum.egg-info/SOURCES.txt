@@ -1,0 +1,7 @@
+README.md
+setup.py
+vacuum.egg-info/PKG-INFO
+vacuum.egg-info/SOURCES.txt
+vacuum.egg-info/dependency_links.txt
+vacuum.egg-info/entry_points.txt
+vacuum.egg-info/top_level.txt
